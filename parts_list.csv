@@ -1,0 +1,15 @@
+Reference(s),Value,Name,Qty,URL
+"C1, C2",2.2uF,"2.2uF, 1210(3225M)",2,https://www.digikey.jp/ja/products/detail/tdk-corporation/C3225X7R2A225K230AB/2042168?s=N4IgTCBcDaIMIGYxgKwA0DsAlMBBZKA0mAgAy4BCIAugL5A
+C3,2.2nF,"2.2nF, 0603(1608M)",1,https://www.digikey.jp/ja/products/detail/murata-electronics/GRM1885C1H222JA01D/586951?s=N4IgTCBcDaIOICUCyBGAHGgrAYRQCTEICkBBABhQBEQBdAXyA
+C4,3.3nF,"3.3nF, 0603(1608M)",1,https://www.digikey.jp/ja/products/detail/murata-electronics/GCD188R71H332KA01D/10695654?s=N4IgTCBcDaIOIGEAiBGAHGgSgdhQCQGYCwBpAQQAYUkQBdAXyA
+C5,47pF,"47pF, 0402(1005M)",1,https://www.digikey.jp/ja/products/detail/murata-electronics/GRT1555C1H470JA02J/13904912?s=N4IgTCBcDaIOICUAqBGArBgwigEgFgHYAGAKQEEiwSQBdAXyA
+"C6, C7, C8, C9",10uF,"10uF, 1210(3225M)",4,https://www.digikey.jp/ja/products/detail/murata-electronics/GCM32EC71H106KA03K/4903990?s=N4IgTCBcDaIOIGECyBmMBRBB2AjACRwAYA2AaQEFCVSQBdAXyA
+D1,D_Schottky,Schottky Diode,1,https://www.digikey.jp/ja/products/detail/diodes-incorporated/G15H150D5/16375450
+"J1, J2",Conn_01x02,your favorite connector(example:XH),2,none
+L1,33uH,33uH,1,https://www.digikey.jp/ja/products/detail/w%C3%BCrth-elektronik/7443551331/3315076?s=N4IgTCBcDaIOwBYEGYCsqCMzkZAXQF8g
+R1,100k,"100kohm, 0603(1608M)",1,https://www.digikey.jp/ja/products/detail/stackpole-electronics-inc/RMCF0603FT100K/1761112
+R2,200k,"200kohm, 0603(1608M)",1,https://www.digikey.jp/ja/products/detail/stackpole-electronics-inc/RMEF0603FT200K/16839749
+R3,51k,"51kohm, 0603(1608M)",1,https://www.digikey.jp/ja/products/detail/stackpole-electronics-inc/RMCF0603FT51K0/1760867
+RV1,1M,trimming potensio registor,1,https://www.digikey.jp/ja/products/detail/bourns-inc/3006P-1-105LF/1087573?s=N4IgTCBcDaIMwAYEDYAKBaAjFhBWAMgGIgC6AvkA
+TP1,TestPoint,Test Point(No soldering),1,none
+U1,LM5013QDDARQ1,"DCDC converter IC, LM5013QDDARQ1",1,https://www.digikey.jp/ja/products/detail/texas-instruments/LM5013QDDARQ1/16516658
